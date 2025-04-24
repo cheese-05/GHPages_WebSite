@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "SERI'SITE"
 author: default
 permalink: /
 ---
