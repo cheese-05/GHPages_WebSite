@@ -1,11 +1,16 @@
 ---
-title: "SERI'SITE"
+title: "SERI'DAILY ROUTINE"
 author: default
 permalink: /
 ---
+## 最近の日課
+### 1.Youtube視聴
+### 2.懐かしいアニメ見返し
+### 3.ベーキングパウダーと和解
+### 4.お絵描き
 
-
-🧀が食べたい？
+### 1.Youtube視聴
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 
 
