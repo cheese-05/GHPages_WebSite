@@ -11,7 +11,8 @@ permalink: /
 
 
 ### 1.Youtube視聴
-![image](/assets/images/st.jpg)
+![image](/GHPages_WebSite/assets/images/st.jpg)
+
 #### 『ストリートグラフィティ　ロールプレイ』略して『ストグラ』
 #### ストグラとは
 #### GTAV(グランド・セフト・オートV)というゲームを元に制作された、仮想都市”ロスサントス”。
